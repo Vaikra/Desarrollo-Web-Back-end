@@ -6,9 +6,5 @@ spring:
   mvc:
     pathmatch:
       matching-strategy: ANT_PATH_MATCHER
-eureka:
-  client:
-    service-url:
-      defaultZone: hhtps://localhost:8761/eureka
  
  
